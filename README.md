@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @je12123
+- 👋 Hi, I’m @Aveyal (je12123 is my old name)
 - I finished CS50x.
 - I like Minecraft breezes.
 - That's about it.
