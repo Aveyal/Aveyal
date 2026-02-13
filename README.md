@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Aveyal (je12123 is my old name)
+- Hi, I’m @Aveyal (je12123).
 - I finished CS50x.
 - I like Minecraft breezes.
-- That's about it.
+- I also like sword drills, and the color #33ffb1.
+- Wow, after so many years, I'm actually doing something GitHub-flavored on GitHub.
 
 <!---
 je12123/je12123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
