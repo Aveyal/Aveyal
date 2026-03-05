@@ -1,4 +1,4 @@
-- Hi, I’m @Aveyal (je12123).
+- Hi, I’m Aveyal (je12123).
 - I finished CS50x.
 - I like Minecraft breezes.
 - I also like sword drills, and the color #33ffb1.
