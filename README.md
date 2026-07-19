@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<div align="center">
+```
+  I have 7 hoodies and my index finger is 3.2 inches long.
+```
+</div>
 <!--
 **Aveyal/Aveyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
